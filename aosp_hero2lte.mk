@@ -27,7 +27,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, vendor/aosp/common.mk)
 
 #Build Magisk
- DEFAULT_ROOT_METHOD := magisk
+#DEFAULT_ROOT_METHOD := magisk 
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := aosp_hero2lte
