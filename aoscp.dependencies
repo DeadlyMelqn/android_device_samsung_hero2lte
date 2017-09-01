@@ -1,6 +1,6 @@
 [
     {
-        "repository": "DeadlyMelqn/android_device_samsung_hero-common",
+        "repository": "aoscp-hero/android_device_samsung_hero-common",
         "target_path": "device/samsung/hero-common",
         "remote": "github",
         "branch": "nougat-mr2"
